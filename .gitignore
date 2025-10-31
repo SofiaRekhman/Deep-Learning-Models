@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# MLflow experiments
+mlruns/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# Models and large artifacts
+*.h5
+*.pt
+*.pth
+*.joblib
+*.sav
+
+# IDE / system files
+.vscode/
+.idea/
